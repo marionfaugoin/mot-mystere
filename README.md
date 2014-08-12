@@ -1,4 +1,4 @@
 mot-mystere
 ===========
 
-Just a game.
+Juste un jeu inspiré d'openclassrooms et amélioré.
